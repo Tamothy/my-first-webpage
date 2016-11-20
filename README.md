@@ -1,35 +1,31 @@
 # My First Webpage
 
-#### Making first HTML webpage, 05.02.2016
+#### HTML excercise practicing GitHub pages and README's
 
 #### By Tam Nguyen
 
 ## Description
 
-This is my first webpage without CSS.
+This contains an HTML layout practicing elements, tags, GitHub pages, and setting up a README file.
 
 ## Setup/Installation Requirements
 
-* Simple tags
-* P tags
-* HTML
-* CSS
-* HYPER TEXT
-
-## Known Bugs
-
-Looks like there are a ton of bugs because there is no CSS.
+* Check out the GitHub pages link: https://tamothy.github.io/my-first-webpage
+* Clone repository if interested in making changes
+* Use Atom to customize changes
+* Make sure to commit regularly on terminal
+* Don't forget to push to remote repository
 
 ## Support and contact details
 
-No support because my webpage is not finished.
+Tam Nguyen's email: mr.tamron@gmail.com
 
 ## Technologies Used
 
-* HTML
+HTML
 
 ### License
 
-Yeah you can use it.
+This software is licensed under the MIT license.
 
-Copyright (c) 2015 Tam Nguyen
+Copyright (c) 2016 **Tam Nguyen**
