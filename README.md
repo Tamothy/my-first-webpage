@@ -1,6 +1,6 @@
 # My First Webpage
 
-#### HTML excercise practicing GitHub pages and README's
+#### HTML exercise practicing GitHub pages and README's
 
 #### By Tam Nguyen
 
