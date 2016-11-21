@@ -6,7 +6,7 @@
 
 ## Description
 
-This contains an HTML layout practicing elements, tags, GitHub pages, and setting up a README file.
+This contains an HTML layout practicing elements, tags, GitHub pages, and setting up a README file
 
 ## Setup/Installation Requirements
 
